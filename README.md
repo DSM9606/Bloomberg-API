@@ -30,7 +30,7 @@ When I open terminal to get to the correct folder holding the program I type com
 #### Step 1: Type "conda create -n bloom-env python=3.8" + ENTER in the terminal application
 #### Step 2: Type "y" + ENTER two times accept terminal conditions
 
-#### Step 3: Type "conda activate my-game-env" + ENTER 
+#### Step 3: Type "conda activate bloom-env" + ENTER 
 
 ## Part III: Make sure your packages are installed
 #### Step 1: Type "pip install -r requirements.txt" + ENTER into terminal
