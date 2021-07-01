@@ -1,0 +1,3 @@
+pandas
+xbbg
+#index-url=https://bcms.bloomberg.com/pip/simple blpapi
